@@ -1,22 +1,26 @@
-[README.md](https://github.com/user-attachments/files/34105294/README.md)
 # Guilherme Santos
 
-**Ciência da Computação · Desenvolvimento de software · IA aplicada**
+Estudante de Ciência da Computação na UniFG. Desenvolvo aplicações web e sistemas próprios, enquanto aprofundo meus estudos em engenharia de software, backend, testes e inteligência artificial aplicada.
 
-Sou estudante de Ciência da Computação na UniFG. Desenvolvo projetos próprios, principalmente para a web, e aprofundo meus estudos em sistemas, automações e inteligência artificial.
+## Projetos
 
-Valorizo código legível, arquitetura bem definida e soluções simples de utilizar e manter.
+**[ScoutLIQ](https://github.com/gdsantos-dev/ScoutLIQ)**  
+Sistema de pesquisa e organização de empresas para prospecção comercial. Integra buscas por localização, investigação, evidências, avaliação de oportunidades e acompanhamento. Em desenvolvimento, com validações técnicas documentadas. [Estudo de caso](https://gdsantos-dev.com/pt/projeto/?id=scoutliq).
 
-## Projetos em destaque
+**DashLIQ**  
+Aplicação para organizar receitas, despesas, compromissos e metas pessoais. [Conhecer o projeto](https://gdsantos-dev.com/pt/projeto/?id=dashliq).
 
-- **[Portfólio pessoal](https://github.com/gdsantos-dev/portfolio-gdsantos)**: site responsivo em português, inglês e espanhol, com apresentação, currículo e formas de contato. [Ver site](https://gdsantos-dev.com/).
-- **[ORLIQ.me](https://github.com/gdsantos-dev/orliq-me)**: página pessoal de links, com identidade visual própria e opções de compartilhamento. [Ver site](https://links.gdsantos-dev.com/).
+**[Portfólio pessoal](https://github.com/gdsantos-dev/portfolio-gdsantos)**  
+Site responsivo em português, inglês e espanhol, com currículo e estudos de caso dos projetos. [Acessar o site](https://gdsantos-dev.com/).
 
-## Tecnologias e interesses
+**[ORLIQ.me](https://github.com/gdsantos-dev/orliq-me)**  
+Página pessoal de links, com identidade visual própria e recursos de compartilhamento. [Acessar o site](https://links.gdsantos-dev.com/).
 
-**Tecnologias:** HTML · CSS · JavaScript · Node.js · Python · Git
+## Tecnologias
 
-**Interesses:** desenvolvimento web e de sistemas · inteligência artificial aplicada · automações · arquitetura de software
+Python · JavaScript · TypeScript · React · FastAPI · Node.js · HTML · CSS · SQL · Git
+
+Atualmente estudo também arquitetura de software, bancos de dados, automações e aplicações de IA. Os estudos de caso do portfólio apresentam decisões de desenvolvimento, colaboração com IA e limites de validação.
 
 ## Contato
 
