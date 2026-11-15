@@ -7,11 +7,8 @@ Estudante de Ciência da Computação na UniFG. Desenvolvo aplicações web e si
 **[ScoutLIQ](https://github.com/gdsantos-dev/ScoutLIQ)**  
 Sistema de pesquisa e organização de empresas para prospecção comercial. Integra buscas por localização, investigação, evidências, avaliação de oportunidades e acompanhamento. Em desenvolvimento, com validações técnicas documentadas. [Estudo de caso](https://gdsantos-dev.com/pt/projeto/?id=scoutliq).
 
-**DashLIQ**  
-Aplicação para organizar receitas, despesas, compromissos e metas pessoais. [Conhecer o projeto](https://gdsantos-dev.com/pt/projeto/?id=dashliq).
-
 **[Portfólio pessoal](https://github.com/gdsantos-dev/portfolio-gdsantos)**  
-Site responsivo em português, inglês e espanhol, com currículo e estudos de caso dos projetos. [Acessar o site](https://gdsantos-dev.com/).
+Site responsivo em português, inglês e espanhol, com currículo e estudo de caso de projeto próprio. [Acessar o site](https://gdsantos-dev.com/).
 
 **[ORLIQ.me](https://github.com/gdsantos-dev/orliq-me)**  
 Página pessoal de links, com identidade visual própria e recursos de compartilhamento. [Acessar o site](https://links.gdsantos-dev.com/).
